@@ -1,6 +1,6 @@
 ## Hi, I'm Jyrell!
 
-👨🏾‍💻 I'm studing to become a computer scientist @ Brooklyn College.<br>
+👨🏾‍💻 I'm studing to become a computer scientist.<br>
 
 💻 Tech Stack<br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)

@@ -1,4 +1,4 @@
-## Hi, I'm Jyrell!
+## Hey There,!
 
 👨🏾‍💻 I'm a Technologist.<br>
 

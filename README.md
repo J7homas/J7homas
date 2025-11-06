@@ -1,19 +1,22 @@
-Hey There!
+In a world racing toward automation, where screens multiply faster than our attention, something strange happened — people began to lose sight. Not eyesight, but insight. The ability to notice patterns, to understand what matters, to act with clarity instead of noise.
 
-👨🏾‍💻 I'm a Technologist.<br>
+That’s where Notic began.
 
-💫 About Me:
+Notic wasn’t founded to make another app. It was built as a counterweight — a workshop for perception. A place where design, data, and psychology meet to build tools that make humans smarter, not smaller.
 
-From a young age, I’ve been captivated by systems—how things connect, function, and evolve. That early obsession grew into a relentless drive to build technology from the ground up. I’m not just a developer; I’m a builder, architect, and lifelong student of how software can shape human potential.
+Our first question wasn’t “What can AI do?” but “What can humans still do best — and how can we amplify it?”
+So we built systems that learn from how people think, tools that mirror curiosity, and simulations that teach by doing — not by memorizing. We made interfaces that feel like control panels for your own cognition: crisp, luminous, and alive with possibility.
 
-Today, I’m engineering high-performance applications with a modern, cloud-native stack. My frontend foundation is Next.js, TypeScript, and Tailwind CSS, delivering fast, responsive, and accessible interfaces. On the backend, I work with Go and Fiber, paired with PostgreSQL and Prisma to build lightweight, secure APIs optimized for real-world performance.
+Every product under Notic — from interactive learning labs to real-time insight dashboards — follows one rule:
 
-My workflow embraces Docker, edge deployments, and CI/CD pipelines that keep systems reliable and scalable. Observability, modularity, and security aren’t add-ons—they’re part of the architecture from the start. This isn’t about chasing trends; it’s about building technology that lasts.
+Enhance the mind. Don’t distract it.
 
-I didn’t enter tech the traditional way. I taught myself through late-night experiments, trial and error, and by building and running my own Linux server from scratch. I containerized my first environment before I ever had a production user. I learned to orchestrate systems and optimize performance by doing, failing, and rebuilding stronger.
+We believe progress isn’t measured by how much data we collect, but by how clearly we can see.
+We believe technology should be a compass, not a leash.
+And we believe that when people notice more — patterns, systems, each other — they begin to shape the world with purpose again.
 
-This journey—these tools, this persistence, this curiosity—is what forged me. Without it, my code would just be code. With it, it’s purpose: to engineer the future, one system at a time.
-
+Notic exists for that moment — when awareness turns into action.
+That’s our mission: to design the future of noticing.
 
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
